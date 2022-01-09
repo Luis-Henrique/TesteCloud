@@ -1,0 +1,7 @@
+server:
+  port: 8888
+spring:  application:    name: "luis-Server"     
+  profiles:    active:    - native
+greeting-luis:
+  greeting: "Hi"
+  default-value: "Mundo"
