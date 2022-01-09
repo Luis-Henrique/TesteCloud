@@ -1,4 +1,4 @@
-spring:  application:    name: "demo"     
+spring:  application:    name: greeting-service   
 greeting-luis:
   greeting: "Hii"
   default-value: "kkkkkkkkkkkkkkkk"
